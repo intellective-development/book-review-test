@@ -1,3 +1,6 @@
+// Created By :  Diori Pazaj
+// Created with the purpose to fetch the data from goodreads API
+
 var request = require('request');
 var parser = require('xml2json');
 var path = require('path');
